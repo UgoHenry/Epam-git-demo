@@ -4,5 +4,3 @@ I wrote
 
 Another new line
 and this line
-some comment
-another some cmment
